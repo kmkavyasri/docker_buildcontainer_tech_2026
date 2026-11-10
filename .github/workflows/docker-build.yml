@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: manj ukavya99/docker_buildcontainer_tech_2026:latest
+          tags: manjukavya99/docker_buildcontainer_tech_2026:latest
